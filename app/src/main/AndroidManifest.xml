@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.INFO6124Project1">
         <activity
-            android:name=".pastRecords"
+            android:name=".addRecords"
             android:exported="false" />
         <activity
             android:name=".settingsActivity"

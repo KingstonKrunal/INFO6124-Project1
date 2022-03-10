@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">INFO6124-Project1</string>
+    <string name="textview">TextView</string>
+    <string name="home">Home</string>
+    <string name="description">Description</string>
+    <string name="app_description">The app stores new born baby wake/sleeping times. Add a new record by pressing add records button.</string>
+
+    <string name="record_list">record_list</string>
+    <string name="dAndT_list">dateAndTime_list</string>
+    <string name="enter_activity">Enter Activity</string>
+    <string name="add_record">Add Record</string>
+    <string name="student_id">Student ID</string>
+    <string name="name">Name</string>
+    <string name="krunal_shah">Krunal Shah</string>
+    <string name="_1064518">1064518</string>
+    <string name="remove_last">Remove Last</string>
+    <string name="remove_all">Remove All</string>
+    <string name="settings">Settings</string>
 </resources>
